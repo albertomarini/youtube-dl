@@ -9,3 +9,6 @@ functions:
     handler: ./
     image: albertomarini/faas-youtubedl:0.3
 
+spec:
+  constraints:
+   - "type: rasp"
