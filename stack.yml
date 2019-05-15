@@ -11,4 +11,4 @@ functions:
 
 spec:
   constraints:
-   - "type: rasp"
+  type: rasp
