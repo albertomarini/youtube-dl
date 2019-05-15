@@ -1,7 +1,7 @@
 provider:
   name: faas
   provider: faas
-  gateway: http://localhost:8080
+  gateway: http://68.183.211.211:31112
 
 functions:
   youtubedl:
