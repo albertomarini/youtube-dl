@@ -9,4 +9,4 @@ functions:
     handler: ./
     image: albertomarini/faas-youtubedl:0.3
     constraints:
-       - "type=cloud"
+       - "type=amazing"
