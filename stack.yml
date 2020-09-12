@@ -1,5 +1,5 @@
 provider:
-  name: faas
+  name: openfaas
   provider: openfaas
   gateway: http://165.227.245.168:31112/
 
