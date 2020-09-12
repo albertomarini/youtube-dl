@@ -1,7 +1,7 @@
 provider:
   name: faas
-  provider: faas
-  gateway: /http://165.227.245.168:31112/
+  provider: openfaas
+  gateway: http://165.227.245.168:31112/
 
 functions:
   youtubedl:
