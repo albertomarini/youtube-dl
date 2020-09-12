@@ -1,7 +1,7 @@
 provider:
   name: faas
   provider: faas
-  gateway: http://178.128.194.203:31112/
+  gateway: /http://165.227.245.168:31112/
 
 functions:
   youtubedl:
@@ -9,4 +9,4 @@ functions:
     handler: ./
     image: albertomarini/faas-youtubedl:0.3
     constraints:
-       - "type=rasp"
+       - "type=rspbpi-01"
